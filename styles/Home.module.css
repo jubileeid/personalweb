@@ -34,7 +34,7 @@
 }
 
 .title a {
-  color: #0070f3;
+  color: #f30000;
   text-decoration: none;
 }
 
@@ -119,3 +119,4 @@
     flex-direction: column;
   }
 }
+
