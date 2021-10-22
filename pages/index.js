@@ -15,7 +15,7 @@ export default function Home() {
       <main className={styles.main}>
         <h1 className={styles.title}>
           Selamat Datang di 
-          <Link href="/posts/halodunia"> Halo Dunia!</Link>
+          <Link href="/posts/halodunia"> Personal Web</Link>
         </h1>
 
         <p className={styles.description}>
